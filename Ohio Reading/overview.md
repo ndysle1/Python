@@ -1,7 +1,7 @@
 ## Ohio Reading Overview
 #### To view the Juptyer notebooks in this project, it is best to copy and paste the notebook URL [here](https://nbviewer.jupyter.org/).
 
-#### The goal of the project:
+#### The goal of this project:
  - Use a difference-in-difference model to determine the impact of the Ohio Third Grade Reading Guarantee (TGRG).
 
 #### Background
@@ -13,7 +13,6 @@ The panel data used for this analysis came from the Ohio and Iowa Department of 
 * **Alternative Hypothesis:** The alternative hypothesis is that the Ohio Third Grade Reading Guarantee did have an impact on students as measured by the OAA and its Iowa equivalent.
 
 #### Difference-in-Difference Model
-Percent_Proficient_or_Abovei = β0 + β1Ohioi + β2Afteri + β3Ohio*After_Implementationi + β4-nControlsi + εi
 
 **Pct_Proficient_or_Abovei = β0 + β1Ohioi + β2Afteri + β3Ohio*After_Implementationi + β4-nControlsi + εi**
 
