@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Dairy Feed Analysis/dairy_dataset.R
